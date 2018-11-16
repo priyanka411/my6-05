@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "product": "Coffee Mug",
+        "description": "Best mug ever!",
+        "unitPrice": 9.99
+    },
+    {
+        "_id": 2,
+        "product": "Tshirt",
+        "description": "Even better shirt",
+        "unitPrice": 24.99
+    },
+    {
+        "_id": 3,
+        "product": "Hat",
+        "description": "Good quality",
+        "unitPrice": 10.00
+    },
+    {
+        "_id": 4,
+        "product": "winter coat",
+        "description": "Wind breaker",
+        "unitPrice": 80.00
+    }
+]

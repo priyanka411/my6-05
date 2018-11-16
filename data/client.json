@@ -1,0 +1,54 @@
+[
+    {
+        "_id": 1,
+        "email": "s533726@nwmissouri.edu",
+        "firstname": "Sai Tejaswini",
+        "lastname": "Narne",
+        "street1": "800 University Drive",
+        "street2": "#100",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    },
+
+    {
+        "_id": 2,
+        "email": "tejaswini.narne@gmail.com",
+        "firstname": "Tejaswini",
+        "lastname": "N",
+        "street1": "800 University Drive",
+        "street2": "",
+        "city": "Maryville",
+        "state":"MO",
+        "zip": 64468,
+        "country": "USA"
+    },
+    
+    {
+        "_id": 3,
+        "email": "narnesuresh27@gmail.com",
+        "firstname": "Suresh",
+        "lastname": "Narne",
+        "street1": "SVN Colony 4th lane",
+        "street2": "",
+        "city": "Guntur",
+        "state":"AP",
+        "zip": 522006,
+        "country": "INDIA"
+    },
+    
+    {
+        "_id": 4,
+        "email": "suneethasuresh5@gmail.com",
+        "firstname": "Suneetha",
+        "lastname": "Ginjupalli",
+        "street1": "SVN Colony 4th lane",
+        "street2": "",
+        "city": "Guntur",
+        "state":"AP",
+        "zip": 522006,
+        "country": "INDIA"
+    }
+
+]
